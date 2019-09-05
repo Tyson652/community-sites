@@ -1,0 +1,36 @@
+- id: atlassian-location
+  name: Atlassian
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=Level%203%2C%2014%20Martin%20Place%20NSW%202000&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: 341 George St, Sydney NSW 2000
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: 341 George St
+  city: Sydney
+  latitude: -33.867270
+  longitude: 151.206610
+- id: weWork-location
+  name: WeWork
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=place_id:ChIJv3--ljauEmsRWMFOLXPZhHc&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: 100 Harris St, Pyrmont NSW 2009
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: 100 Harris St
+  city: Pyrmont
+  latitude: -33.868839
+  longitude: 151.194016
+- id: domain-location
+  name: Domain
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=place_id:ChIJeYKbkjauEmsREsyD0wMuiF8&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: 55 Pyrmont street, Pyrmont NSW 2009
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: 55 Pyrmont street
+  city: Pyrmont
+  latitude: -33.868610
+  longitude: 151.194440
+- id: microsoft-location
+  name: Microsoft Reactor Sydney
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=L10%2011%20-%2013%20York%20St%2C%20Sydney%20NSW%202000&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: L10 11 - 13 York St, Sydney NSW 2000
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: L10 11 - 13 York Street
+  city: Sydney
+  latitude: -33.865390
+  longitude: 151.205400

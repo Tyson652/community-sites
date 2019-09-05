@@ -1,0 +1,54 @@
+- title: Elixir Sydney
+  logo: https://www.varvet.com/images/elixir-logo.svg
+  nextEventLine: "Next Event: 7th March. 7 - 9pm"
+  aboutTitle: About
+  eventsTitle: Past Events
+  organisersTitle: Organisers
+  sponsorsTitle: Sponsors
+  pageInformation:
+    heading1: About Elixir Sydney
+    paragraph1:
+      We meet the 1st Wednesday of each month to talk about Elixir and Erlang and associated technologies.
+      Most months we have talks but we sometimes host practical coding nights.
+      Beginners are always welcome to join and we try to keep talks accessible to those new to the language and ecosystem.
+  footer:
+    message1: Interested in Elixir?
+    message2: Join us today!
+    copyright: "Copyright \u00A9 Elixir Sydney, powered by Gatsby & Theme UI."
+    iconType: fab
+    iconKeyword1: meetup
+    iconLink1: https://www.meetup.com/en-AU/elixir-sydney/
+    iconKeyword2: twitter
+    iconLink2: https://twitter.com/elixirsydney
+    iconKeyword3: github
+    iconLink3: https://github.com/sydneyelixir
+  iconButton:
+    buttonText: Sign up on Meetup
+    buttonHref: https://www.meetup.com/en-AU/elixir-sydney/events/kznqrpyzfbjb/
+    buttonImage: meetup.svg
+    buttonIconName: meetup
+    buttonIconPrefix: fab
+  talks:
+    title: Talks
+    email: elixirsydney@gmail.com
+    line1: Submit a Talk Proposal
+    line2: "Send submissions to "
+  heroEvent:
+    subHeading1: "Next Meetup:"
+    subHeading2: "Join this Event:"
+  headerNav:
+    - description: Home
+      href: /
+    - description: Past Events
+      href: /events
+    - description: Code of Conduct
+      href: /about
+  paginationButtons:
+    previous: Previous
+    next: Next
+  # Default Props for unfurling
+  defaultImage: https://camunda.com/img/events/meetup-example.jpg
+  description: Elixir Sydney is a regular meetup where developers meet to talk and learn about all things Elixir.
+  siteUrl: https://elixir-sydney-gatsby.netlify.com
+  location: expert360-location
+

@@ -1,0 +1,45 @@
+{
+  "name": "graphql-sydney",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "@emotion/styled": "^10.0.12",
+    "@mdx-js/mdx": "^1.0.19",
+    "@mdx-js/react": "^1.0.16",
+    "gatsby": "^2.13.51",
+    "gatsby-community-theme": "^1.0.0",
+    "gatsby-image": "^2.2.7",
+    "gatsby-plugin-manifest": "^2.2.5",
+    "gatsby-plugin-mdx": "^1.0.4",
+    "gatsby-plugin-react-helmet": "^3.1.2",
+    "gatsby-plugin-sharp": "^2.2.9",
+    "gatsby-plugin-theme-ui": "^0.2.33",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-source-filesystem": "^2.1.5",
+    "gatsby-transformer-json": "^2.2.2",
+    "gatsby-transformer-remark": "^2.6.3",
+    "gatsby-transformer-sharp": "^2.2.5",
+    "gatsby-transformer-yaml": "^2.2.4",
+    "react": "^16.8.6",
+    "react-carousel": "^4.3.0",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-slick": "^0.25.2",
+    "styled-system": "^5.0.10",
+    "theme-ui": "^0.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@storybook/addon-actions": "^5.1.9",
+    "@storybook/addon-links": "^5.1.9",
+    "@storybook/addons": "^5.1.9",
+    "@storybook/react": "^5.1.9",
+    "babel-loader": "^8.0.6"
+  }
+}

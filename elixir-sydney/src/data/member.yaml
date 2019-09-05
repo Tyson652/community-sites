@@ -1,0 +1,264 @@
+- id: josh-price
+  name: Josh Price
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/4/5/c/e/member_12197870.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/8425371/
+  websiteUrl: 
+  twitter: "@joshprice"
+  company: Alembic
+  companyUrl: https://alembic.com.au/
+- id: james-sadler
+  name: James Sadler
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/2/8/f/b/member_258850491.jpeg
+  meetupUrl:
+  websiteUrl:
+  twitter: "@freshtonic"
+  company: Alembic
+  companyUrl: https://alembic.com.au/
+- id: paul-fioravanti
+  name: Paul Fioravanti
+  avatarUrl: https://secure.meetupstatic.com/photos/member/7/1/6/8/highres_67829032.jpeg
+  meetupUrl: https://www.meetup.com/elixir-sydney/members/58665142/
+  websiteUrl:
+  twitter: "@paulfioravanti"
+  company: Alembic
+  companyUrl: https://alembic.com.au/
+- id: andrew-harvey
+  name: Andrew Harvey
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/5/a/3/e/member-224183102.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/11138446/
+  websiteUrl:
+  twitter: "@mootpointer"
+  company: 
+  companyUrl: 
+- id: sunil-gopinath
+  name: Sunil Gopinath
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/c/2/d/a/member_115669882.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/43452202/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: martin-stannard
+  name: Martin Stannard
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/1/7/c/c/member_251766092.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/83178992/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: nick-gunn
+  name: Nick Gunn
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/s/img/2982428616572973604/noPhoto_80.gif
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/205821026/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: robin-hilliard
+  name: Robin Hilliard
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/a/5/2/f/member_3822287.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/7114884/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: geoff-hodgson
+  name: Geoff Hodgson
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/d/e/2/8/member_138056872.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/105623792/
+  websiteUrl:
+  twitter: "@geoffroh"
+  company: 
+  companyUrl:
+- id: alex-tsirel
+  name: Alex Tsirel
+  avatarUrl: https://secure.meetupstatic.com/photos/member/1/b/c/8/member_126127112.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/98555692/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: alan-milligan
+  name: Alan Milligan
+  avatarUrl: https://secure.meetupstatic.com/photos/member/a/1/b/0/highres_209981392.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/13064111/
+  websiteUrl:
+  twitter: "@bastionlinux"
+  company: 
+  companyUrl:
+- id: garrett-heinlen
+  name: Garrett Heinlen
+  avatarUrl: https://secure.meetupstatic.com/photos/member/b/7/a/4/member_184907012.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/98723842/
+  websiteUrl:
+  twitter: "@gogogarrett"
+  company: 
+  companyUrl:
+- id: kevin-yank
+  name: Kevin Yank
+  avatarUrl: https://secure.meetupstatic.com/photos/member/c/7/0/d/highres_260810957.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/Elm-Melbourne/members/121828272/
+  websiteUrl:
+  twitter: "@sentience"
+  company: 
+  companyUrl:
+- id: rob-howard
+  name: Rob Howard
+  avatarUrl: https://secure.meetupstatic.com/photos/member/7/5/b/d/highres_255690141.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/12492360/
+  websiteUrl:
+  twitter: "@damncabbage"
+  company: 
+  companyUrl:
+- id: jo-cranford
+  name: Jo Cranford
+  avatarUrl: https://secure.meetupstatic.com/photos/member/2/e/c/8/highres_243551976.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/Elixir-Melbourne/members/9079730/
+  websiteUrl:
+  twitter: "@jocranford"
+  company: 
+  companyUrl:
+- id: alan-harper
+  name: Alan Harper
+  avatarUrl: https://secure.meetupstatic.com/photos/member/4/d/7/8/highres_167239832.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/Elixir-Melbourne/members/349/
+  websiteUrl:
+  twitter: "@aussiegeek"
+  company: 
+  companyUrl:
+- id: brenton-annan
+  name: Brenton Annan
+  avatarUrl: https://secure.meetupstatic.com/photos/member/2/3/3/4/highres_129969012.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/100865042/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: dylan-griffith
+  name: Dylan Griffith
+  avatarUrl: https://secure.meetupstatic.com/photos/member/2/a/9/2/highres_253750898.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/199501518/
+  websiteUrl: dylangriffith.net
+  twitter: "@DylanJGriffith"
+  company: 
+  companyUrl:
+- id: mick-heywood
+  name: Mick Heywood
+  avatarUrl: https://secure.meetupstatic.com/photos/member/c/b/8/b/highres_248512107.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/181553272/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: igor-kapkov
+  name: Igor Kapkov
+  avatarUrl: https://secure.meetupstatic.com/photos/member/b/9/6/6/highres_195167462.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/144945092/
+  websiteUrl:
+  twitter: "@igasgeek"
+  company: 
+  companyUrl:
+- id: toby-hede
+  name: Toby Hede
+  avatarUrl: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvUAAAAJDQzMWM5ZGMzLTAzN2ItNGRiMi1iMDJmLWI4MWM4MzVkNTUzOA.jpg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/144945092/
+  websiteUrl:
+  twitter: "@tobyhede"
+  company: 
+  companyUrl:
+- id: dave-parry
+  name: Dave Parry
+  avatarUrl: https://secure.meetupstatic.com/photos/member/d/3/4/c/member_81234092.jpeg
+  meetupUrl: https://www.meetup.com/sydney-ex/members/12433325/
+  websiteUrl: http://suranyami.com/
+  twitter: "@suranyami"
+  company: 
+  companyUrl:
+- id: jon-rowe
+  name: Jon Rowe
+  avatarUrl: https://pbs.twimg.com/profile_images/752380573746753536/1H9fH_ng_400x400.jpg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/202515018/
+  websiteUrl: http://jonrowe.co.uk
+  twitter: "@jonrowe"
+  company: 
+  companyUrl:
+- id: qing-wu
+  name: Qing Wu
+  avatarUrl: https://avatars1.githubusercontent.com/u/616880?v=3
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/140014642/
+  websiteUrl: http://www.wiserfirst.com
+  twitter: "@wiserfirst"
+  company: 
+  companyUrl:
+- id: richard-heycock
+  name: Richard Heycock
+  avatarUrl: https://pbs.twimg.com/profile_images/52705913/fish_400x400.png
+  meetupUrl:
+  websiteUrl:
+  twitter: "@filterfish"
+  company: 
+  companyUrl:
+- id: cath-jones
+  name: Cath Jones
+  avatarUrl: https://secure.meetupstatic.com/photos/member/7/d/4/0/highres_254012064.jpeg
+  meetupUrl: https://www.meetup.com/sydney-ex/members/80708842/
+  websiteUrl: http://bitgirl101.com/
+  twitter: "@cathjones0"
+  company: 
+  companyUrl:
+- id: dan-draper
+  name: Dan Draper
+  avatarUrl: https://secure.meetupstatic.com/photos/member/7/5/1/d/highres_251369981.jpeg
+  meetupUrl: https://www.meetup.com/sydney-ex/members/14319873/
+  websiteUrl: https://coderdan.co/
+  twitter: "@danieldraper"
+  company: 
+  companyUrl:
+- id: mark-ratjens
+  name: Mark Ratjens
+  avatarUrl: https://secure.meetupstatic.com/photos/member/7/3/7/f/highres_270749567.jpeg
+  meetupUrl: https://www.meetup.com/sydney-ex/members/236782055/
+  websiteUrl:
+  twitter: "@markratjens"
+  company: 
+  companyUrl:
+- id: jeffrey-chan
+  name: Jeffrey Chan
+  avatarUrl: https://pbs.twimg.com/profile_images/3747677814/e399d57ad977e8afd4367459034c5d22_400x400.jpeg
+  meetupUrl: https://www.meetup.com/sydney-ex/members/28936042/
+  websiteUrl:
+  twitter: "@jgmchan"
+  company: 
+  companyUrl:
+- id: luke-swithenbank
+  name: Luke Swithenbank
+  avatarUrl: https://secure.meetupstatic.com/photos/member/5/9/b/2/member_109342962.jpeg
+  meetupUrl: https://www.meetup.com/sydney-ex/members/88360622/
+  websiteUrl:
+  twitter: "@lswith"
+  company: 
+  companyUrl:
+- id: sophie-troy-alison-hughes
+  name: Sophie Troy and Alison Hughes
+  avatarUrl: http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/922/thumbnail/Sophie_Troy.jpg?1547029391
+  meetupUrl: https://www.meetup.com/sydney-ex/members/221417822/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: randolph-park
+  name: Randolph Park
+  avatarUrl: https://secure.meetupstatic.com/photos/member/e/0/1/6/member_244737366.jpeg
+  meetupUrl: https://www.meetup.com/sydney-ex/members/185456008/
+  websiteUrl:
+  twitter:
+  company: 
+  companyUrl:
+- id: ruth-wang
+  name: Ruth Wang
+  avatarUrl: https://pbs.twimg.com/profile_images/574156806055796737/iP_tkwLK_400x400.jpeg
+  meetupUrl:
+  websiteUrl:
+  twitter: "@XiaoningRWang"
+  company: 
+  companyUrl:

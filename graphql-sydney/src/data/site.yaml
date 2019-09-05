@@ -1,0 +1,52 @@
+- title: GraphQL Sydney
+  logo: ./pages/graphql-logo.svg
+  nextEventLine: "Next Event: 7th March. 7 - 9pm"
+  aboutTitle: About
+  eventsTitle: Past Events
+  organisersTitle: Organisers
+  sponsorsTitle: Sponsors
+  pageInformation:
+    heading1: About GraphQL Sydney
+    paragraph1:
+      GraphQL is a new way to build fast and flexible APIs [not necessarily just for the web either.]
+      Come along and see what the fuss about!
+  footer:
+    message1: Interested in GraphQL?
+    message2: Join us today!
+    copyright: "Copyright \u00A9 GraphQL Sydney, powered by Gatsby & Theme UI."
+    iconType: fab
+    iconKeyword1: meetup
+    iconLink1: https://www.meetup.com/en-AU/GraphQL-Sydney/
+    iconKeyword2: twitter
+    iconLink2: https://twitter.com/graphqlsydney?lang=en
+    iconKeyword3: github
+    iconLink3: https://github.com/team-alembic/graphql-sydney
+  iconButton:
+    buttonText: Sign up on Meetup
+    buttonHref: https://www.meetup.com/GraphQL-Sydney/events/258773287/
+    buttonImage: meetup.svg
+    buttonIconName: meetup
+    buttonIconPrefix: fab
+  talks:
+    title: Talks
+    email: james@alembic.com.au
+    line1: Submit a talk proposal!
+    line2: "Send submissions to "
+  headerNav:
+    - description: Home
+      href: /
+    - description: Past Events
+      href: /events
+    - description: Code of Conduct
+      href: /about
+  heroEvent:
+    subHeading1: "Next Meetup:"
+    subHeading2: "Join this Event:"
+  paginationButtons:
+    previous: Previous
+    next: Next
+  # Default Props for unfurling
+  defaultImage: https://camunda.com/img/events/meetup-example.jpg
+  description: GraphQL Sydney Sydney is a regular meetup where developers meet to talk and learn about all things Elixir.
+  siteUrl: https://graphql-sydney-gatsby.netlify.com
+  location: microsoft-location

@@ -1,0 +1,54 @@
+- id: expert360-location
+  name: Expert360
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=Level%203%2C%2014%20Martin%20Place%20NSW%202000&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: Level 3, 14 Martin Place, NSW, 2000
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: Level 3, 14 Martin Place
+  city: Sydney
+  latitude: -33.867164611816406
+  longitude: 151.20823669433594
+- id: pivotal-labs-location
+  name: Pivotal Labs
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=Level%2011%2C%20155%20Clarence%20Street%2C%20Sydney%2C%202000&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: Level 11, 155 Clarence Street, Sydney, 2000
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: Level 11, 155 Clarence Street
+  city: Sydney
+  latitude: -33.868015
+  longitude: 151.204998
+- id: camp-wombaroo-location
+  name: Camp Wombaroo
+  mapUrl: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26339.615428124707!2d150.3128840384951!3d-34.38985738051552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b13bb8ba49d5659%3A0xb4284107746ae47d!2sWombaroo%2C+162+Black+Spring+Rd%2C+High+Range+NSW+2575!5e0!3m2!1sen!2sau!4v1531643689492
+  address: 162 Black Spring Rd, High Range, NSW, 2575
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: 162 Black Spring Rd
+  city: High Range
+  latitude: -34.388800
+  longitude: 150.329380
+- id: boodl-location
+  name: Boodl
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=place_id:ChIJTbZdHeGxEmsRcwHFvf794VA&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: 10 Boronia St, Redfern, NSW, 2016
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: 10 Boronia St
+  city: Redfern
+  latitude: -33.893340
+  longitude: 151.213120
+- id: the-workbench-location
+  name: The Workbench
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWW9A6iWuEmsRvNsWd7BtFnY&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: 645 Harris Street, Ultimo, NSW, 2007
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: 645 Harris Street
+  city: Ultimo
+  latitude: -33.880710
+  longitude: 151.199950
+- id: tabcorp-location
+  name: Tabcorp
+  mapUrl: https://www.google.com/maps/embed/v1/place?q=Level%2031%2C%20680%20George%20Street%2C%20Haymarket%2C%20NSW&key=AIzaSyD7OXXbf-H8ho7dJuChVGkAhY-ib2vMafc
+  address: Level 31, 680 George Street, Haymarket, NSW, 2000
+  instructions: Ring or Text Josh on 0415 366 251, if you're late, lost or can't get in. We'll send someone down to get you.
+  streetAddress: Level 31, 680 George Street
+  city: Haymarket
+  latitude: -33.857530
+  longitude: 151.208450

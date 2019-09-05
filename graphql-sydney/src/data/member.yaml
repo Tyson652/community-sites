@@ -1,0 +1,80 @@
+- id: andi-marek
+  name: Andi Marek
+  avatarUrl: https://secure.meetupstatic.com/photos/member/6/7/b/d/highres_248606557.jpeg
+  meetupUrl: https://www.meetup.com/GraphQL-Sydney/members/79550612/
+  websiteUrl:
+  twitter: "@andimarek"
+  company: Atlassian
+  companyUrl: https://www.atlassian.com/
+- id: rich-buggy
+  name: Rich Buggy
+  avatarUrl: https://secure.meetupstatic.com/photos/member/d/0/c/8/member_256793448.jpeg
+  meetupUrl: https://www.meetup.com/GraphQL-Sydney/members/79550612/
+  websiteUrl:
+  twitter: "@richbuggyk"
+  company: Atlassian
+  companyUrl: https://www.atlassian.com/
+- id: josh-price
+  name: Josh Price
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/4/5/c/e/member_12197870.jpeg
+  meetupUrl: https://www.meetup.com/en-AU/sydney-ex/members/8425371/
+  websiteUrl:
+  twitter: "@joshprice"
+  company: Alembic
+  companyUrl: https://alembic.com.au/
+- id: keith-pitt
+  name: Keith Pitt
+  avatarUrl: https://secure.meetupstatic.com/photos/member/e/9/d/b/highres_261659867.jpeg
+  meetupUrl: https://www.meetup.com/GraphQL-Sydney/events/237438330/
+  websiteUrl:
+  twitter: "@keithpitt"
+  company: Buildkite
+  companyUrl: https://buildkite.com/
+- id: chris-giffard
+  name: Chris Giffard
+  avatarUrl: https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/8ffb1f2c99fb6c0c9bf9a2c5ff9415978d128242-s300.jpg
+  meetupUrl: https://www.meetup.com/GraphQL-Sydney/events/237438330/
+  websiteUrl:
+  twitter: "@cgiffard"
+  company:
+  companyUrl:
+- id: james-sadler
+  name: James Sadler
+  avatarUrl: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/2/8/f/b/member_258850491.jpeg
+  meetupUrl:
+  websiteUrl:
+  twitter: "@freshtonic"
+  company: Alembic
+  companyUrl: https://alembic.com.au/
+- id: suzie-price
+  name: Suzie Price
+  avatarUrl: https://secure.meetupstatic.com/photos/member/4/a/6/f/highres_264019055.jpeg
+  meetupUrl: https://www.meetup.com/GraphQL-Sydney/members/221482566/
+  websiteUrl:
+  twitter: "@suzieprice2008"
+  company: Alembic
+  companyUrl: https://alembic.com.au/
+- id: dave-parry
+  name: Dave Parry
+  avatarUrl: https://secure.meetupstatic.com/photos/member/d/3/4/c/member_81234092.jpeg
+  meetupUrl:
+  websiteUrl:
+  twitter:
+  company:
+  companyUrl:
+- id: sputnik-antolovich
+  name: Sputnik Antolovich
+  avatarUrl: https://secure.meetupstatic.com/photos/member/3/4/6/2/highres_269533410.jpeg
+  meetupUrl:
+  websiteUrl:
+  twitter:
+  company:
+  companyUrl:
+- id: joseph-glanville
+  name: Joseph Glanville
+  avatarUrl: https://pbs.twimg.com/profile_images/971639724124160000/NhCXOgaV_400x400.jpg
+  meetupUrl: https://www.meetup.com/GraphQL-Sydney/members/12691284/
+  websiteUrl:
+  twitter: "@jpgvm"
+  company:
+  companyUrl:
